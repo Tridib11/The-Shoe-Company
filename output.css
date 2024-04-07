@@ -566,6 +566,10 @@ video {
   display: flex;
 }
 
+.hidden {
+  display: none;
+}
+
 .w-1 {
   width: 0.25rem;
 }
@@ -640,6 +644,12 @@ video {
 .text-white {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
+}
+
+@media (min-width: 768px) {
+  .md\:block {
+    display: block;
+  }
 }
 
 @media (min-width: 1024px) {
