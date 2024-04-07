@@ -582,6 +582,26 @@ video {
   width: 8rem;
 }
 
+.w-\[\] {
+  width: ;
+}
+
+.w-\[756\] {
+  width: 756;
+}
+
+.w-\[756px\] {
+  width: 756px;
+}
+
+.w-\[px\] {
+  width: px;
+}
+
+.w-\[600px\] {
+  width: 600px;
+}
+
 .items-center {
   align-items: center;
 }
