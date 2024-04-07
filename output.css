@@ -553,3 +553,47 @@ video {
   --tw-contain-paint:  ;
   --tw-contain-style:  ;
 }
+
+.-m-8 {
+  margin: -2rem;
+}
+
+.-mt-8 {
+  margin-top: -2rem;
+}
+
+.w-1 {
+  width: 0.25rem;
+}
+
+.w-12 {
+  width: 3rem;
+}
+
+.w-32 {
+  width: 8rem;
+}
+
+.bg-black {
+  --tw-bg-opacity: 1;
+  background-color: rgb(0 0 0 / var(--tw-bg-opacity));
+}
+
+.to-white {
+  --tw-gradient-to: #fff var(--tw-gradient-to-position);
+}
+
+.px-12 {
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
+
+.text-sm {
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+}
+
+.text-white {
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity));
+}
