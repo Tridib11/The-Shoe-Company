@@ -666,6 +666,22 @@ video {
   --tw-gradient-to: #fff var(--tw-gradient-to-position);
 }
 
+.bg-contain {
+  background-size: contain;
+}
+
+.bg-left {
+  background-position: left;
+}
+
+.bg-right {
+  background-position: right;
+}
+
+.bg-no-repeat {
+  background-repeat: no-repeat;
+}
+
 .px-12 {
   padding-left: 3rem;
   padding-right: 3rem;
