@@ -667,8 +667,62 @@ video {
   line-height: 1;
 }
 
+.text-8xl {
+  font-size: 6rem;
+  line-height: 1;
+}
+
+.text-6xl {
+  font-size: 3.75rem;
+  line-height: 1;
+}
+
 .font-bold {
   font-weight: 700;
+}
+
+.leading-\[\] {
+  line-height: ;
+}
+
+.leading-\[48px\] {
+  line-height: 48px;
+}
+
+.leading-\[88px\] {
+  line-height: 88px;
+}
+
+.leading-\[8px\] {
+  line-height: 8px;
+}
+
+.leading-\[108px\] {
+  line-height: 108px;
+}
+
+.leading-\[96px\] {
+  line-height: 96px;
+}
+
+.leading-\[80px\] {
+  line-height: 80px;
+}
+
+.leading-\[6px\] {
+  line-height: 6px;
+}
+
+.leading-\[64px\] {
+  line-height: 64px;
+}
+
+.leading-\[px\] {
+  line-height: px;
+}
+
+.leading-\[72px\] {
+  line-height: 72px;
 }
 
 .text-white {
