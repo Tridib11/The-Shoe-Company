@@ -767,6 +767,16 @@ video {
   padding-right: 0.25rem;
 }
 
+.px-4 {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.px-6 {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
 .pt-32 {
   padding-top: 8rem;
 }
@@ -907,6 +917,11 @@ video {
 
   .md\:bg-contain {
     background-size: contain;
+  }
+
+  .md\:px-12 {
+    padding-left: 3rem;
+    padding-right: 3rem;
   }
 
   .md\:text-6xl {
